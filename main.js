@@ -25,6 +25,10 @@ school.instructor1 = new Instructor("Yury", "Shkoda", "Term2");
 school.instructor2 = new Instructor("Ginny", "Gu Tang", "Term2");
 school.instructor3 = new Instructor("Colin", "Jaffe", "Term1");
 
+school.name = "Code Immersives";
+school.hours = "1030AM - 4PM";
+school.terms = ["term1", "term2", "term3"];
+
 
 console.log(school);
 
